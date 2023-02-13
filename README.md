@@ -11,3 +11,4 @@ Paginas Web desarrolladas por Hideldev 👨🏼‍💻
 💻 [CPC Parabrisas](https://parabrisascpcsm.com/)
 💻 [MCR Seguros](https://www.segurosmcr.com/)
 💻 [Casa Palmera Margarita](https://casapalmerave.com/)
+💻 [Kamesky](https://www.kamesky.net/)
