@@ -19,7 +19,7 @@ Bienvenido al vibrante universo de páginas web diseñadas y desarrolladas por H
 - 🎓 [Innoved Academy](https://innovedacademy.com/)
 
 🔧 **Servicios Varios**:
-- 🪟 [CPC Parabrisas](https://parabrisascpcsm.com/)
+- ⚡ [CPC Parabrisas](https://parabrisascpcsm.com/)
 - 🛡️ [MCR Seguros](https://www.segurosmcr.com/)
 
 🛍️ **Comercio y Retail**:
