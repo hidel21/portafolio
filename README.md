@@ -17,6 +17,7 @@ Bienvenido al vibrante universo de páginas web diseñadas y desarrolladas por H
 
 📚 **Educación y Formación**:
 - 🎓 [Innoved Academy](https://innovedacademy.com/)
+- - 🧪[Biblioteca Kalstein](https://biblioteca.kalstein.net/)
 
 🔧 **Servicios Varios**:
 - ⚡ [CPC Parabrisas](https://parabrisascpcsm.com/)
@@ -24,6 +25,9 @@ Bienvenido al vibrante universo de páginas web diseñadas y desarrolladas por H
 
 🛍️ **Comercio y Retail**:
 - 🛒 [Kamesky](https://www.kamesky.net/)
+
+️ **Agencia de Viaje**:
+- 🏖 [Navicu.com](navicu.com)
 
 Cada proyecto aquí listado lleva consigo horas de dedicación, creatividad y, por supuesto, una pizca de magia digital. Si te sientes inspirado o quieres trabajar juntos en tu próxima idea digital, ¡no dudes en ponerte en contacto! 
 
