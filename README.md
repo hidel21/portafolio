@@ -5,30 +5,53 @@ Bienvenido al vibrante universo de páginas web diseñadas y desarrolladas por H
 ## 🌐 **Portafolio de Hideldev** 🛠️
 
 🚗 **Automotriz y Partes**:
-- 💼 [Ledea Auto AC Parts](http://ledeaautoacparts.com/) 
+
+- 💼 [Ledea Auto AC Parts](http://ledeaautoacparts.com/)
 - 🚘 [Best Ford](https://www.bestfordinc.com/)
 - 🚖 [Toyota North of Miami](http://toyotaofnorthmiami.com/)
 - 🚙 [Lexus North of Miami](https://www.lexusofnorthmiami.com/)
 - 🏎️ [Italy Blue](https://www.italyblueautosales.com/)
 
-🍴 **Gastronomía y Hospitalidad**:
+🍔 **Gastronomía y Hospitalidad**:
+
 - 🍽️ [Florida Kitchen Centers](http://floridakitchencenters.com/)
 - 🏝️ [Casa Palmera Margarita](https://casapalmerave.com/)
 
 📚 **Educación y Formación**:
+
 - 🎓 [Innoved Academy](https://innovedacademy.com/)
-- - 🧪[Biblioteca Kalstein](https://biblioteca.kalstein.net/)
+- 🧪[Biblioteca Kalstein](https://biblioteca.kalstein.net/)
 
 🔧 **Servicios Varios**:
+
 - ⚡ [CPC Parabrisas](https://parabrisascpcsm.com/)
 - 🛡️ [MCR Seguros](https://www.segurosmcr.com/)
 
-🛍️ **Comercio y Retail**:
+🛒 **Comercio y Retail**:
+
 - 🛒 [Kamesky](https://www.kamesky.net/)
 
 ️ **Agencia de Viaje**:
-- 🏖 [Navicu.com](navicu.com)
 
-Cada proyecto aquí listado lleva consigo horas de dedicación, creatividad y, por supuesto, una pizca de magia digital. Si te sientes inspirado o quieres trabajar juntos en tu próxima idea digital, ¡no dudes en ponerte en contacto! 
+- 🌝 [Navicu.com](navicu.com)
+
+🌐 **Otras Creaciones**
+
+- 🏢 [Taranis Galicia](https://taranisgalicia.com/)
+
+- 🏠 [247 Casa](https://247.casa/)
+
+- 👨‍🎓 [YB Group](https://ybgroup.es/)
+
+- 🚬 [Snusy](https://snusy.es/)
+
+- 💄 [Muchas](https://muchas.es/)&#x20;
+
+- 🎓 [Las Cosas de Laury](https://lascosasdelaury.com/)
+
+- 🌐 [Free Satoshis](https://freesatoshis.io/)
+
+Cada proyecto aquí listado lleva consigo horas de dedicación, creatividad y, por supuesto, una pizca de magia digital. Si te sientes inspirado o quieres trabajar juntos en tu próxima idea digital, ¡no dudes en ponerte en contacto!
 
 ¡Hasta la próxima aventura web! 🌐🚀🎉
+
