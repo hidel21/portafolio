@@ -17,11 +17,6 @@ Bienvenido al vibrante universo de páginas web diseñadas y desarrolladas por H
 - 🍽️ [Florida Kitchen Centers](http://floridakitchencenters.com/)
 - 🏝️ [Casa Palmera Margarita](https://casapalmerave.com/)
 
-📚 **Educación y Formación**:
-
-- 🎓 [Innoved Academy](https://innovedacademy.com/)
-- 🧪[Biblioteca Kalstein](https://biblioteca.kalstein.net/)
-
 🔧 **Servicios Varios**:
 
 - ⚡ [CPC Parabrisas](https://parabrisascpcsm.com/)
@@ -33,7 +28,7 @@ Bienvenido al vibrante universo de páginas web diseñadas y desarrolladas por H
 
 ️ **Agencia de Viaje**:
 
-- 🌝 [Navicu.com](navicu.com)
+- 🌝 ([navicu.com](https://navicu.com/))
 
 🌐 **Otras Creaciones**
 
@@ -45,9 +40,7 @@ Bienvenido al vibrante universo de páginas web diseñadas y desarrolladas por H
 
 - 🚬 [Snusy](https://snusy.es/)
 
-- 💄 [Muchas](https://muchas.es/)&#x20;
-
-- 🎓 [Las Cosas de Laury](https://lascosasdelaury.com/)
+- 💄 [Muchas](https://muchas.es/)  (Para acceder a dicha web debes direccionar tu direccion IP a España)
 
 - 🌐 [Free Satoshis](https://freesatoshis.io/)
 
